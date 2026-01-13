@@ -64,7 +64,7 @@ Mais detalhes em `docs/cost_control.md`.
 ## Status do projeto
 - [x] Infraestrutura criada
 - [x] Databricks conectado ao ADLS
-- [ ] Ingestão Bronze
-- [ ] Transformações Silver
-- [ ] Camada Gold
+- [X] Ingestão Bronze
+- [X] Transformações Silver
+- [X] Camada Gold
 - [ ] Dashboard Power BI
